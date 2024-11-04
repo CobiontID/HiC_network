@@ -11,4 +11,6 @@ Using information about pairwise chromatin connections between assembled sequenc
 ### [Hi-C map viewer](./map_viewer/)
 Selectively display chromatin contact maps based on a list of contigs or scaffolds of interest, using a cooler file as input. Useful for displaying small fragments, or clusters identified by node2vec.
 
+## Citation
+If you use code from this repository, please cite: _Kudoa genomes from contaminated hosts reveal extensive gene order conservation and rapid sequence evolution_ https://www.biorxiv.org/content/10.1101/2024.11.01.621499v1
 
